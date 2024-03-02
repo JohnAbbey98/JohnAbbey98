@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🎓 I am John Abbey and I am an **R Developer** specializing in writing software for Imaging Proteomics technologies. I have a Bachelor and Masters in **Biochemistry** but haven't seen the inside of a lab in years. 
+🎓 I am John Abbey and I am an **R Developer** specializing in writing software for Imaging Proteomics technologies. I have a Bachelor (UCD) and Masters (ETHZ) in **Biochemistry**. 
 
 👨‍💻 Current projects I am working on include writing an **R package called gutenTAG for the Bodenmiller Lab** to facilitate robust and efficient processing and analysis of Mass Spectrometry Imaging data. This is being used by the Functional Genomics Center Zurich (FGCZ), the state-of-the-art research facility providing support for labs at ETH Zurich and the University of Zurich.
 
