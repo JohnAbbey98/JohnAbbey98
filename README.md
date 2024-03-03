@@ -43,7 +43,7 @@
 
 ## 📈 Stats
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAbbey98)](https://github.com/JohnAbbey98/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAbbey98&show_icons=true&theme=radical)](https://github.com/JohnAbbey98/github-readme-stats)
 
 ## 🔗 Links
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/JohnAbbey98/JohnAbbey98/files/14470141/long_cv.pdf)
