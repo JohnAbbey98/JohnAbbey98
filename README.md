@@ -26,9 +26,9 @@
 
 ![ggplot2](https://img.shields.io/badge/ggplot2-grey?style=for-the-badge&logo=ggplot&logoColor=black)
 ![tidyverse](https://img.shields.io/badge/tidyverse-3bb143?style=for-the-badge&logo=tidyverse&logoColor=black)
-![Rshiny](https://img.shields.io/badge/rshiny-lightblue?style=for-the-badge&logo=shiny&logoColor=black)
+![Rshiny](https://img.shields.io/badge/rshiny-lightblue?style=for-the-badge&logo=R&logoColor=black)
 ![RMarkdown](https://img.shields.io/badge/Rmarkdown-D30000?style=for-the-badge&logo=rmarkdown&logoColor=black)
-![seurat](https://img.shields.io/badge/Seurat-A020F0?style=for-the-badge&logo=seurat&logoColor=black)
+![seurat](https://img.shields.io/badge/Seurat-A020F0?style=for-the-badge&logo=R&logoColor=black)
 
 
 ### Design Tools
