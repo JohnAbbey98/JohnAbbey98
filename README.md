@@ -21,13 +21,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-28B6F6?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-000080?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-40E0D0?style=for-the-badge&logo=numpy&logoColor=black)
-![scanpy](https://img.shields.io/badge/Scanpy-FFC0CB?style=for-the-badge&logo=scanpy&logoColor=black)
+![scanpy](https://img.shields.io/badge/Scanpy-FFC0CB?style=for-the-badge&logo=python&logoColor=black)
 
 
-![ggplot2](https://img.shields.io/badge/ggplot2-grey?style=for-the-badge&logo=ggplot&logoColor=black)
+![ggplot2](https://img.shields.io/badge/ggplot2-grey?style=for-the-badge&logo=R&logoColor=black)
 ![tidyverse](https://img.shields.io/badge/tidyverse-3bb143?style=for-the-badge&logo=tidyverse&logoColor=black)
 ![Rshiny](https://img.shields.io/badge/rshiny-lightblue?style=for-the-badge&logo=R&logoColor=black)
-![RMarkdown](https://img.shields.io/badge/Rmarkdown-D30000?style=for-the-badge&logo=rmarkdown&logoColor=black)
+![RMarkdown](https://img.shields.io/badge/Rmarkdown-D30000?style=for-the-badge&logo=R&logoColor=black)
 ![seurat](https://img.shields.io/badge/Seurat-A020F0?style=for-the-badge&logo=R&logoColor=black)
 
 
